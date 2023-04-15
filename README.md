@@ -1,4 +1,4 @@
-# CropXchange
+# CropXchange https://gfg-hack.vercel.app/
 
 # Problem:
 Agriculture is one of the primary occupations for many of the Indian households. It contributes a major chunk to the society. But there are numerous problems faced by the farmers at today’s time. In fact, the situation is so disastrous some time that they commit suicide. A few primary reasons are:
@@ -32,7 +32,8 @@ The solution “CropXchange” is a ready to go marketplace for products like ve
 # Technology Used: 
 
 The project has been implemented as a website https://gfg-hack.vercel.app/. The frontend has been hosted over Vercel, while the backend is running on a Google cloud AMD compute engine using Nginx. The database operations are performed using Firebase Firestore and images are stored over Firebase Storage.
-Frontend:
+
+# Frontend:
 1.	The project has been initialized using Vite.
 2.	ReactJS has been used for frontend.
 3.	The designing and CSS stuff is handled through Tailwind CSS.
