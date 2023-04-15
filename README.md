@@ -2,7 +2,7 @@
 
 # Test Login credentials
 
-email: test1@gmail.com pass: test1
+email: test1@gmail.com pass: test1,
 email: test2@gmail.com pass: test2
 
 # Problem:
