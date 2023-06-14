@@ -1,5 +1,7 @@
 # CropXchange https://gfg-hack.vercel.app/
 
+# All the GCP resources have been suspended now and no more in use.
+
 # Test Login credentials
 
 email: test1@gmail.com pass: test1,
